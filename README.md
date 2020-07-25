@@ -1,4 +1,4 @@
-### Hi, I'm Laís Flávio da SIlva. Nice to meet you.👋
+### Hi, I'm Laís Flávio da Silva. Nice to meet you.👋
 
 💻 - I study fullstack web development and create responsive, functional, and easy to use websites. 
 
