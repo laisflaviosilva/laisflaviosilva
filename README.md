@@ -9,6 +9,7 @@
   - Apps Mobiles 📱
 
  🌱 I’m currently learning:
+  -  fullstack web development at Labenu🎓 
   - ReactJs, Node, Api
   - Full Web Design 
 
