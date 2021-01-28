@@ -1,17 +1,15 @@
 ### Hi, I'm Laís Flávio da Silva. Nice to meet you.👋
 
-💻 - I study fullstack web development and create responsive, functional, and easy to use websites. 
+💻 - I create responsive, functional, and easy to use websites applying ux and ui design techniques. 
 
 🔨 - I am always studying to improve my knowledge and develop better and better applications.
 
  ✅ Things I like to do:
   - Web Applications ✨
-  - Apps Mobiles 📱
+  - UX/UI designers
 
  🌱 I’m currently learning:
-  -  fullstack web development at Labenu🎓 
-  - ReactJs, Node, Api
-  - Full Web Design 
+  -  UI design at UIBoost🎓  
 
  🤔 I’m looking for help with:
   - Insertion in the technology area, to be able to provide services with my knowledge.
