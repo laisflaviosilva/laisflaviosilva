@@ -17,4 +17,6 @@
   
 - 📫 How to reach me:
     - LinkedIn: https://www.linkedin.com/in/lais-flavio-silva/
+    - e-mail: laisflavio.silva@gmail.com
+    - phone : (21)96815-6087
 
