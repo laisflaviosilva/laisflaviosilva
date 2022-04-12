@@ -1,22 +1,20 @@
-### Hi, I'm Laís Flávio da Silva. Nice to meet you.👋
+### Oi, tudo bem? Meu nome é Laís Flávio, sou Desenvolvedora Web e Product Designer.👋
 
-💻 - I create responsive, functional, and easy to use websites applying ux and ui design techniques. 
+💻 - Possui conhecimentos e prática nas tecnologias: ReactJs, NodeJs, Javascript, SQL e Wordpress. 
 
-🔨 - I am always studying to improve my knowledge and develop better and better applications.
+🔨 - Estou construindo meu portfólio no meu site oficial: laisflavio.com.br.
 
- ✅ Things I like to do:
-  - Web Applications ✨
-  - UX/UI design
+ ✅ Desenvolvo aplicações web como:
+  - Sites Estáticos ✨
+  - Landing pages responsivas
+  - Sistemas web
+  - UX/UI design: desde a imersão no problema até a aplicação final.
 
- 🌱 I’m currently learning:
-  -  UI design at UIBoost🎓  
-  -  UX design at UX Unicórnio 
-
- 🤔 I’m looking for help with:
-  - Insertion in the technology area, to be able to provide services with my knowledge.
+ 🤔 Eu estou em busca de oportunidades como Desenvolvedora ou Product Designer por projetos.
   
-- 📫 How to reach me:
+- 📫 Como me encontrar:
     - LinkedIn: https://www.linkedin.com/in/lais-flavio-silva/
     - e-mail: laisflavio.silva@gmail.com
     - phone : (21)96815-6087
+    - Site: (21)96815-6087
 
