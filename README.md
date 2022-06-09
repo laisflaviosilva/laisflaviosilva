@@ -13,7 +13,7 @@
  🤔 Eu estou em busca de oportunidades como Desenvolvedora ou Product Designer por projetos.
   
 - 📫 Como me encontrar:
-    - LinkedIn: https://www.linkedin.com/in/lais-flavio-silva/
+    - LinkedIn: https://www.linkedin.com/in/lais-flavio/
     - e-mail: laisflavio.silva@gmail.com
     - phone : (21)96815-6087
     - Site: (21)96815-6087
