@@ -1,4 +1,4 @@
-### Oi, tudo bem? Meu nome é Laís Flávio, sou Desenvolvedora Web e Product Designer.👋
+### Oi, Me chamo Laís Flávio, sou Desenvolvedora de Software.👋
 
 💻 - Possui conhecimentos e prática nas tecnologias: ReactJs, NodeJs, Javascript, SQL e Wordpress. 
 
@@ -10,11 +10,9 @@
   - Sistemas web
   - UX/UI design: desde a imersão no problema até a aplicação final.
 
- 🤔 Eu estou em busca de oportunidades como Desenvolvedora ou Product Designer por projetos.
-  
 - 📫 Como me encontrar:
     - LinkedIn: https://www.linkedin.com/in/lais-flavio/
     - e-mail: laisflavio.silva@gmail.com
     - phone : (21)96815-6087
-    - Site: (21)96815-6087
+    - Site: laisflavio.com
 
