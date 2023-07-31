@@ -14,5 +14,5 @@
     - LinkedIn: https://www.linkedin.com/in/lais-flavio/
     - e-mail: laisflavio.silva@gmail.com
     - phone : (21)96815-6087
-    - Site: laisflavio.com
+    - Site: https://laisflavio.com
 
